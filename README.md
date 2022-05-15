@@ -6,6 +6,9 @@ The dancing segway project's aim was to teach us how to use MicroPython, callibr
 The self-balancing segway on the other hand was an introduction to PID controllers, how to tune it and create a feedback-control system between the motors and the gyroscope.
 
 Skills gained through this project:
+
 MicroPython
+
 PID tuning
+
 Motor callibration
